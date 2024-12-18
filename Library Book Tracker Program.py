@@ -56,7 +56,7 @@ def main():
         elif choice == "4":
             return_book(library)
         elif choice == "5":
-            print("POTANGINAMO BALIK KA RITO!")
+            print("Goodbye have a great day, and remember to return your books!")
             break
         else:
             print("Invalid choice. Please try again.")
